@@ -1,0 +1,2 @@
+# Check-if-an-array-is-sorted-in-ascending-order-or-not
+This C++ program checks whether an array is sorted in ascending order or not. The program takes the number of elements and the array values as input from the user. It then compares each element with the next element in the array. If any element is greater than the next element, the array is not sorted. Otherwise, the array is considered sorted. 
